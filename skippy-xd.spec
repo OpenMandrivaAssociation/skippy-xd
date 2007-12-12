@@ -1,6 +1,6 @@
 Name:		skippy-xd
 Version: 0.5.0
-Release:	2mdk
+Release:	%mkrel 2
 License:	GPL
 Group:		Graphical desktop/Other	
 Summary:	A full screen pager for X11
