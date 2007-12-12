@@ -6,7 +6,7 @@ Group:		Graphical desktop/Other
 Summary:	A full screen pager for X11
 Source0:    http://thegraveyard.org/files/%{name}-%{version}.tar.bz2
 Url:		http://thegraveyard.org/skippy.php
-BuildRequires: XFree86-devel >= 6.8
+BuildRequires: X11-devel >= 6.8
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
