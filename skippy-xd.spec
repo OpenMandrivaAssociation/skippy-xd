@@ -1,6 +1,6 @@
 Name:		skippy-xd
 Version: 0.5.0
-Release:	%mkrel 2
+Release:	%mkrel 4
 License:	GPL
 Group:		Graphical desktop/Other	
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
