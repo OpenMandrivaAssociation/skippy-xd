@@ -37,3 +37,33 @@ rm -rf $RPM_BUILD_ROOT
 %doc CHANGELOG skippy-xd.rc-default COPYING
 %_bindir/*
 
+
+
+%changelog
+* Sat Aug 06 2011 Götz Waschk <waschk@mandriva.org> 0.5.0-6mdv2012.0
++ Revision: 693429
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tv@mandriva.org> 0.5.0-5mdv2011.0
++ Revision: 260770
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tv@mandriva.org> 0.5.0-4mdv2009.0
++ Revision: 252545
+- rebuild
+- fix no-buildroot-tag
+- kill extra spacing at top of description
+
+* Mon Dec 17 2007 Thierry Vignaud <tv@mandriva.org> 0.5.0-2mdv2008.1
++ Revision: 127322
+- kill re-definition of %%buildroot on Pixel's request
+- buildrequires X11-devel instead of XFree86-devel
+- use %%mkrel
+- import skippy-xd
+
+
+* Mon May 09 2005 Frederic Crozat <fcrozat@mandriva.com> 0.5.0-2mdk 
+- Fix buildrequires for x86-64
+
+* Tue Jan 25 2005 Frederic Crozat <fcrozat@mandrakesoft.com> 0.5.0-1mdk 
+- First mandrakelinux package, based on skippy package
