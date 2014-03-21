@@ -7,6 +7,7 @@ Summary:	A full screen pager for X11
 Source0:    http://thegraveyard.org/files/%{name}-%{version}.tar.bz2
 Url:		http://thegraveyard.org/skippy.php
 BuildRequires: pkgconfig(x11)
+BuildRequires: pkgconfig(xmu)
 
 %description
 A full screen pager for X11, not entirely unlike expocity and Apple's
