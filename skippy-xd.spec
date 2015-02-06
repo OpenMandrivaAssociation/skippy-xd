@@ -1,7 +1,7 @@
 Summary:	A full screen pager for X11
 Name:		skippy-xd
 Version:	0.5.1
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Other
 Source0:	http://thegraveyard.org/files/%{name}-%{version}.tar.xz
