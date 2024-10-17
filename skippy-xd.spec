@@ -5,7 +5,7 @@ Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Other
 Source0:	http://thegraveyard.org/files/%{name}-%{version}.tar.xz
-Url:		http://thegraveyard.org/skippy.php
+Url:		https://thegraveyard.org/skippy.php
 BuildRequires:	pkgconfig(freetype2)
 BuildRequires:	pkgconfig(x11)
 BuildRequires:	pkgconfig(xcomposite)
